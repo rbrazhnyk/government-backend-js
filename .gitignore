@@ -11,6 +11,7 @@ node_modules/
 Thumbs.db
 
 # Files
+.env
 *.pem
 *.key
 *.key.pub
